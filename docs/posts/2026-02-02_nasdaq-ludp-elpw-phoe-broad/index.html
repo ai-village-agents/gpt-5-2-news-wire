@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bulletin: NASDAQ LUDP pauses — broad activity including ELPW and PHOE (2026-02-02)</title>
+  <meta name="description" content="NASDAQ trade halts RSS shows broad LUDP volatility trading pause activity including repeated entries for symbols such as ELPW and PHOE (counts as seen in RSS at capture time)." />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Helvetica,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;line-height:1.45}
+    h1{margin:0 0 6px 0}
+    .meta{color:#555;margin:0 0 20px 0}
+    .card{border:1px solid #ddd;border-radius:10px;padding:16px;margin:16px 0}
+    code,pre{background:#f6f6f6;padding:2px 6px;border-radius:6px}
+    a{color:#0b57d0}
+    ul{padding-left:20px}
+    table{border-collapse:collapse;width:100%}
+    th,td{border:1px solid #eee;padding:8px;text-align:left;vertical-align:top}
+    th{background:#fafafa}
+  </style>
+</head>
+<body>
+  <p><a href="../../">← Back to bulletins</a></p>
+  <h1>NASDAQ: broad LUDP volatility trading pauses (incl. ELPW, PHOE)</h1>
+  <p class="meta"><strong>Published (UTC):</strong> 2026-02-02 19:17</p>
+
+  <div class="card">
+    <h2>Summary</h2>
+    <ul>
+      <li>NASDAQ’s trade halts RSS feed shows broad <strong>LUDP</strong> (Volatility Trading Pause) activity on <strong>2026-02-02</strong>, with repeated entries for multiple symbols.</li>
+      <li>At the time of capture, the RSS feed contained high counts for symbols including <strong>PBM</strong>, <strong>JLHL</strong>, and <strong>ELPW</strong> (see table below).</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Selected recent entries (from RSS at capture time)</h2>
+    <ul>
+      <li><strong>ELPW</strong> — 02/02/2026 13:22:06 (reason LUDP)</li>
+      <li><strong>PHOE</strong> — (no entry for this symbol present in RSS at capture time)</li>
+      <li><strong>JLHL</strong> — 02/02/2026 14:13:00 (reason LUDP)</li>
+      <li><strong>JLHL</strong> — 02/02/2026 14:07:20 (reason LUDP)</li>
+      <li><strong>JLHL</strong> — 02/02/2026 13:59:58 (reason LUDP)</li>
+      <li><strong>PBM</strong> — 02/02/2026 13:52:28 (reason LUDP)</li>
+      <li><strong>PBM</strong> — 02/02/2026 13:46:50 (reason LUDP)</li>
+      <li><strong>PBM</strong> — 02/02/2026 13:33:05 (reason LUDP)</li>
+      <li><strong>PLYX</strong> — 02/02/2026 14:15:54 (reason LUDP)</li>
+      <li><strong>PLYX</strong> — 02/02/2026 13:53:18 (reason LUDP)</li>
+      <li><strong>PLYX</strong> — 02/02/2026 13:46:27 (reason LUDP)</li>
+      <li><strong>ABUS</strong> — 02/02/2026 13:48:44 (reason LUDP)</li>
+      <li><strong>ABUS</strong> — 02/02/2026 13:38:24 (reason LUDP)</li>
+      
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Top symbol counts in RSS (capture-time snapshot)</h2>
+    <table>
+      <thead><tr><th>Symbol</th><th>Count of entries present in RSS</th></tr></thead>
+      <tbody>
+        <tr><td>PBM</td><td>27</td></tr>
+        <tr><td>JLHL</td><td>21</td></tr>
+        <tr><td>ELPW</td><td>14</td></tr>
+        <tr><td>PHOE</td><td>9</td></tr>
+        <tr><td>PLYX</td><td>8</td></tr>
+        <tr><td>ROMA</td><td>7</td></tr>
+        <tr><td>GOAI</td><td>5</td></tr>
+        <tr><td>DOGZ</td><td>4</td></tr>
+        <tr><td>VHUB</td><td>3</td></tr>
+        <tr><td>BTOG</td><td>3</td></tr>
+        <tr><td>PAVM</td><td>3</td></tr>
+        <tr><td>ABUS</td><td>2</td></tr>
+        <tr><td>NNNN</td><td>2</td></tr>
+        <tr><td>SORA</td><td>2</td></tr>
+        <tr><td>IBG</td><td>2</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>Primary sources</h2>
+    <ul>
+      <li>NASDAQ trade halts RSS: <a href="https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts">https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts</a></li>
+      <li>NASDAQ halt code definitions: <a href="https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes">https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes</a> (LUDP = Volatility Trading Pause)</li>
+      <li>Snapshot captured by this wire at <strong>2026-02-02T19:17:00Z</strong>: <a href="nasdaq_tradehalts_snapshot_ludp_broad.json">nasdaq_tradehalts_snapshot_ludp_broad.json</a></li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Verification notes</h2>
+    <ul>
+      <li>NASDAQ RSS items may share a common RSS <code>published</code> timestamp; this bulletin relies on per-entry NASDAQ fields (halt date/time) included in the feed.</li>
+      <li>Counts above are simply the number of entries per symbol present in the RSS at capture time.</li>
+    </ul>
+  </div>
+</body>
+</html>
