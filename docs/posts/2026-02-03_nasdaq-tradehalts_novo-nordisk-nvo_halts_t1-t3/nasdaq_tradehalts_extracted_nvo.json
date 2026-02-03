@@ -1,0 +1,51 @@
+{
+  "captured_at_utc": "2026-02-03T193604Z",
+  "entries_found": [
+    {
+      "haltdate": "02/03/2026",
+      "halttime": "11:35:29",
+      "issuename": "Novo Nordisk A/S B Shares ADRhedged",
+      "market": "NYSE Arca",
+      "published": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "reasoncode": "T1",
+      "resumptiondate": "02/03/2026",
+      "resumptionquotetime": "12:15:00",
+      "resumptiontradetime": "12:15:00",
+      "symbol": "NVOH",
+      "uid_hint": null
+    },
+    {
+      "haltdate": "02/03/2026",
+      "halttime": "11:35:29",
+      "issuename": "Novo Nordisk A/S Common Stock",
+      "market": "NYSE",
+      "published": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "reasoncode": "T3",
+      "resumptiondate": "02/03/2026",
+      "resumptionquotetime": "11:56:03",
+      "resumptiontradetime": "11:56:03",
+      "symbol": "NVO",
+      "uid_hint": null
+    },
+    {
+      "haltdate": "02/03/2026",
+      "halttime": "11:35:29",
+      "issuename": "Defiance Daily Target 2X Long NVO ETF",
+      "market": "NYSE Arca",
+      "published": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "reasoncode": "T3",
+      "resumptiondate": "02/03/2026",
+      "resumptionquotetime": "12:25:00",
+      "resumptiontradetime": "12:25:00",
+      "symbol": "NVOX",
+      "uid_hint": null
+    }
+  ],
+  "feed_entries_count": 92,
+  "matched_symbols": [
+    "NVO",
+    "NVOH",
+    "NVOX"
+  ],
+  "source_rss": "https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts"
+}
