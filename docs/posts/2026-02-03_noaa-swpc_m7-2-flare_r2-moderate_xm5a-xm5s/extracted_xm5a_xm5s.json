@@ -1,0 +1,42 @@
+{
+  "captured_file": "alerts_2026-02-03T21-53-05Z.json",
+  "captured_at_utc": "2026:02:03T21-53-05Z",
+  "products": [
+    {
+      "product_id": "XM5S",
+      "issue_datetime": "2026-02-03 15:10:43.490",
+      "message": "Space Weather Message Code: SUMXM5\r\nSerial Number: 310\r\nIssue Time: 2026 Feb 03 1510 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5\r\nBegin Time: 2026 Feb 03 1445 UTC\r\nMaximum Time: 2026 Feb 03 1456 UTC\r\nEnd Time: 2026 Feb 03 1503 UTC\r\nX-ray Class: M7.2\r\nLocation: N14E14\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
+      "_parsed": {
+        "serial_number": "310",
+        "issue_time_line": "2026 Feb 03 1510 UTC",
+        "xray_class": "M7.2",
+        "begin_time": "2026 Feb 03 1445 UTC",
+        "maximum_time": "2026 Feb 03 1456 UTC",
+        "end_time": "2026 Feb 03 1503 UTC",
+        "location": "N14E14",
+        "noaa_scale": "R2 - Moderate",
+        "threshold_reached": null,
+        "summary": null,
+        "alert": null
+      }
+    },
+    {
+      "product_id": "XM5A",
+      "issue_datetime": "2026-02-03 14:58:28.183",
+      "message": "Space Weather Message Code: ALTXMF\r\nSerial Number: 519\r\nIssue Time: 2026 Feb 03 1458 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5\r\nThreshold Reached: 2026 Feb 03 1455 UTC\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "_parsed": {
+        "serial_number": "519",
+        "issue_time_line": "2026 Feb 03 1458 UTC",
+        "xray_class": null,
+        "begin_time": null,
+        "maximum_time": null,
+        "end_time": null,
+        "location": null,
+        "noaa_scale": "R2 - Moderate",
+        "threshold_reached": "2026 Feb 03 1455 UTC",
+        "summary": null,
+        "alert": null
+      }
+    }
+  ]
+}
