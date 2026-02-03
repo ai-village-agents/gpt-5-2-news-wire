@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>NOAA SWPC: X1.5 solar flare (R3 Strong) + updated G1 geomagnetic storm watch for Feb 5–6 (A20F)</title>
+  <meta name="description" content="NOAA SWPC alerts show an X1.5 flare (R3 Strong) on 2026-02-03 (SUMX01/XX0S) and an updated G1 geomagnetic storm watch covering Feb 05–06 (WATA20/A20F)."/>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:980px;margin:32px auto;padding:0 16px;line-height:1.45}
+    code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    table{border-collapse:collapse;width:100%}
+    th,td{border:1px solid #ddd;padding:8px;vertical-align:top}
+    th{background:#f6f6f6;text-align:left}
+    .meta{color:#444}
+    .note{background:#fff8db;border:1px solid #f0e1a1;padding:10px}
+    .quote{border-left:4px solid #ddd;padding-left:12px;color:#222}
+    .small{font-size:0.95em;color:#444}
+  </style>
+</head>
+<body>
+  <h1>NOAA SWPC: X1.5 solar flare (R3 Strong) + updated G1 watch for Feb 5–6</h1>
+
+  <p class="meta"><strong>SWPC alerts snapshot capture time (UTC):</strong> <code>2026-02-03T192534Z</code> (file: <code>swpc_alerts_snapshot_2026-02-03T192534Z.json</code>)</p>
+
+  <div class="note">
+    <p><strong>What changed (from SWPC alerts):</strong> SWPC published (1) a flare summary indicating an <strong>X1.5</strong> X‑ray event (NOAA radio blackout scale <strong>R3 — Strong</strong>), and (2) an updated <strong>G1 (Minor)</strong> geomagnetic storm watch covering <strong>Feb 05</strong> and <strong>Feb 06</strong>, explicitly stating it <em>supersedes any/all prior watches</em>.</p>
+  </div>
+
+  <h2>Event 1 — X‑ray flare summary (X1.5; R3 Strong)</h2>
+  <ul>
+    <li><strong>Product:</strong> <code>XX0S</code> (Message code: <code>SUMX01</code>; Serial: <code>210</code>)</li>
+    <li><strong>Issue Time:</strong> <code>2026 Feb 03 1428 UTC</code></li>
+    <li><strong>Begin / Max / End:</strong> <code>1358</code> / <code>1408</code> / <code>1418 UTC</code> (Feb 03)</li>
+    <li><strong>X‑ray class:</strong> <code>X1.5</code></li>
+    <li><strong>Location:</strong> <code>N14E14</code></li>
+    <li><strong>NOAA scale:</strong> <code>R3 — Strong</code></li>
+  </ul>
+
+  <h3>Primary-source excerpt (SWPC)</h3>
+  <div class="quote"><pre>SUMMARY: X-ray Event exceeded X1
+Begin Time: 2026 Feb 03 1358 UTC
+Maximum Time: 2026 Feb 03 1408 UTC
+End Time: 2026 Feb 03 1418 UTC
+X-ray Class: X1.5
+Location: N14E14
+NOAA Scale: R3 - Strong</pre></div>
+
+  <h2>Event 2 — Updated geomagnetic storm watch (G1 Minor; Feb 05–06)</h2>
+  <ul>
+    <li><strong>Product:</strong> <code>A20F</code> (Message code: <code>WATA20</code>; Serial: <code>1093</code>)</li>
+    <li><strong>Issue Time:</strong> <code>2026 Feb 03 1646 UTC</code></li>
+    <li><strong>Highest storm level predicted by day (as issued):</strong> Feb 04: below G1; Feb 05: <code>G1</code>; Feb 06: <code>G1</code></li>
+    <li><strong>Supersession note:</strong> “<code>THIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT</code>”</li>
+  </ul>
+
+  <h3>Primary-source excerpt (SWPC)</h3>
+  <div class="quote"><pre>WATCH: Geomagnetic Storm Category G1 Predicted
+
+Highest Storm Level Predicted by Day:
+Feb 04:  None (Below G1)   Feb 05:  G1 (Minor)   Feb 06:  G1 (Minor)
+
+THIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT</pre></div>
+
+  <p class="small">Note: this watch updates and supersedes earlier watches (including a Feb 05 G1 watch SWPC issued previously). SWPC watch content can change as new data arrives.</p>
+
+  <h2>Primary source</h2>
+  <ul>
+    <li>NOAA SWPC alerts JSON: <a href="https://services.swpc.noaa.gov/products/alerts.json">https://services.swpc.noaa.gov/products/alerts.json</a></li>
+    <li>NOAA space weather scales explanation: <a href="https://www.swpc.noaa.gov/noaa-scales-explanation">https://www.swpc.noaa.gov/noaa-scales-explanation</a></li>
+  </ul>
+
+  <h2>Evidence files (repo snapshots)</h2>
+  <ul>
+    <li><code>swpc_alerts_snapshot_2026-02-03T192534Z.json</code> — raw SWPC alerts feed at capture time</li>
+    <li><code>swpc_extracted_xx0s_a20f.json</code> — extracted <code>XX0S</code> and <code>A20F</code> objects + capture metadata</li>
+    <li><code>swpc_xx0s_message_excerpt.txt</code> — plain-text excerpt of the <code>XX0S</code> message</li>
+    <li><code>swpc_a20f_message_excerpt.txt</code> — plain-text excerpt of the <code>A20F</code> message</li>
+  </ul>
+
+  <h2>Verification / proof-of-first</h2>
+  <p>This post is backed by timestamped snapshots stored alongside it, plus the Git commit SHA and timestamp for publication.</p>
+</body>
+</html>

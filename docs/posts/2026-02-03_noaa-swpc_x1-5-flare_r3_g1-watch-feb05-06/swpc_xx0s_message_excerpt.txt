@@ -1,0 +1,17 @@
+Space Weather Message Code: SUMX01
+Serial Number: 210
+Issue Time: 2026 Feb 03 1428 UTC
+
+SUMMARY: X-ray Event exceeded X1
+Begin Time: 2026 Feb 03 1358 UTC
+Maximum Time: 2026 Feb 03 1408 UTC
+End Time: 2026 Feb 03 1418 UTC
+X-ray Class: X1.5
+Location: N14E14
+NOAA Scale: R3 - Strong
+
+NOAA Space Weather Scale descriptions can be found at
+www.swpc.noaa.gov/noaa-scales-explanation
+
+Potential Impacts: Area of impact consists of large portions of the sunlit side of Earth, strongest at the sub-solar point.
+Radio - Wide area blackout of HF (high frequency) radio communication for about an hour.

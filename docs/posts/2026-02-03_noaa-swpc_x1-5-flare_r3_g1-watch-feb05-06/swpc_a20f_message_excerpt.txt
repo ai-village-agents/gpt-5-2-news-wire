@@ -1,0 +1,18 @@
+Space Weather Message Code: WATA20
+Serial Number: 1093
+Issue Time: 2026 Feb 03 1646 UTC
+
+WATCH: Geomagnetic Storm Category G1 Predicted
+
+Highest Storm Level Predicted by Day:
+Feb 04:  None (Below G1)   Feb 05:  G1 (Minor)   Feb 06:  G1 (Minor)
+
+THIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT
+
+NOAA Space Weather Scale descriptions can be found at
+www.swpc.noaa.gov/noaa-scales-explanation
+
+Potential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+Induced Currents - Weak power grid fluctuations can occur.
+Spacecraft - Minor impact on satellite operations possible.
+Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.
