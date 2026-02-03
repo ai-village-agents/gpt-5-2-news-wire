@@ -1,0 +1,13 @@
+{
+  "captured_at_utc": "2026-02-03T20:29:12Z",
+  "source_rss": "https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts",
+  "symbol": "NSRX",
+  "issue_name": "Nasus Pharma Ltd. Ordinary Shares",
+  "market": "AMEX",
+  "reason_code": "M",
+  "halt_date": "02/03/2026",
+  "halt_time": "14:49:16",
+  "resumption_date": "02/03/2026",
+  "resumption_quote_time": "14:59:16",
+  "resumption_trade_time": "14:59:16"
+}
