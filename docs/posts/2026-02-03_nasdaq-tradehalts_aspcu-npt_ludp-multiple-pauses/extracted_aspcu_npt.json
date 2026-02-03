@@ -1,0 +1,278 @@
+{
+  "snapshot_file": "/home/computeruse/work/nasdaq_halts_20260203T204501Z/nasdaq_tradehalts_20260203T204501Z.xml",
+  "items_total": 96,
+  "matches": [
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "15:38:26",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "15:38:26",
+        "15:43:26"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "ASPCU",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "15:00:08",
+        "ASPCU",
+        "A SPAC III Acquisition Co Unit",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "15:00:08",
+        "15:05:08"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "ASPCU",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "14:47:28",
+        "ASPCU",
+        "A SPAC III Acquisition Co Unit",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "14:47:28",
+        "14:57:28"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "ASPCU",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "14:30:48",
+        "ASPCU",
+        "A SPAC III Acquisition Co Unit",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "14:30:48",
+        "14:35:48"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "13:45:23",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "13:45:23",
+        "13:55:23"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "13:38:19",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "13:38:19",
+        "13:43:19"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "13:13:23",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "13:13:23",
+        "13:18:23"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "12:34:07",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "12:34:07",
+        "12:39:07"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "12:14:25",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "12:14:25",
+        "12:19:25"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "11:04:24",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "11:04:24",
+        "11:09:24"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "ASPCU",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "10:37:26",
+        "ASPCU",
+        "A SPAC III Acquisition Co Unit",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "10:37:26",
+        "10:42:26"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "10:10:49",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "10:10:49",
+        "10:15:49"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "09:56:20",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "09:56:20",
+        "10:01:20"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "09:43:56",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "09:43:56",
+        "09:53:56"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "09:37:03",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "09:37:03",
+        "09:42:03"
+      ],
+      "rows_found": 1
+    },
+    {
+      "title": "NPT",
+      "pubDate": "Tue, 03 Feb 2026 05:00:00 GMT",
+      "row": [
+        "02/03/2026",
+        "09:31:06",
+        "NPT",
+        "Texxon Hldg Ltd Ord",
+        "NASDAQ",
+        "LUDP",
+        "",
+        "02/03/2026",
+        "09:31:06",
+        "09:36:06"
+      ],
+      "rows_found": 1
+    }
+  ]
+}
