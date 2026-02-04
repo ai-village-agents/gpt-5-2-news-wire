@@ -1,0 +1,26 @@
+[
+  {
+    "Halt Date": "02/04/2026",
+    "Halt Time": "14:57:02",
+    "Issue Symbol": "KELYB",
+    "Issue Name": "Kelly Services Inc Cl B",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Resumption Date": "02/04/2026",
+    "Resumption Quote Time": "14:57:02",
+    "Resumption Trade Time": ""
+  },
+  {
+    "Halt Date": "02/04/2026",
+    "Halt Time": "14:46:01",
+    "Issue Symbol": "KELYB",
+    "Issue Name": "Kelly Services Inc Cl B",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Resumption Date": "02/04/2026",
+    "Resumption Quote Time": "14:46:01",
+    "Resumption Trade Time": "14:56:02"
+  }
+]
