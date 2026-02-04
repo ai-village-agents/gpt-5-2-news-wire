@@ -1,0 +1,24 @@
+[
+  {
+    "Halt Date": "02/04/2026",
+    "Halt Time": "15:30:28",
+    "Issue Name": "TG-17, Inc. CS",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Resumption Date": "02/04/2026",
+    "Resumption Quote Time": "15:30:28",
+    "Resumption Trade Time": null,
+    "Symbol": "OBAI"
+  },
+  {
+    "Halt Date": "02/04/2026",
+    "Halt Time": "15:06:00",
+    "Issue Name": "Phoenix Asia Holdings Limited",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Resumption Date": "02/04/2026",
+    "Resumption Quote Time": "15:06:00",
+    "Resumption Trade Time": "15:11:00",
+    "Symbol": "PHOE"
+  }
+]

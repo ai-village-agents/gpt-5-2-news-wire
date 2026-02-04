@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NASDAQ tradehalts snapshot update: new PHOE + OBAI LUDP rows; KELYB row now shows resumption trade time — 2026-02-04</title>
+  <meta name="description" content="NASDAQ Trader trade-halts RSS snapshot captured 2026-02-04T20:36:24Z shows two additional Feb 4, 2026 LUDP entries (PHOE 15:06; OBAI 15:30) compared with an earlier 20:00:51Z capture, and an updated resumption trade time for KELYB (halt 14:57:02). Evidence files included." />
+  <link rel="stylesheet" href="../../style.css" />
+</head>
+<body>
+<div class="wrap">
+  <p><a href="../../index.html">← Home</a></p>
+  <h1>NASDAQ tradehalts snapshot update: PHOE + OBAI LUDP rows added; KELYB row updated</h1>
+  <p class="meta"><b>Captured (UTC):</b> <code>2026-02-04T20:36:24Z</code> (NASDAQ Trader RSS + halt code reference). This page summarizes what appears in this single snapshot, and highlights differences vs an earlier snapshot captured <code>2026-02-04T20:00:51Z</code>.</p>
+
+  <div class="card">
+    <h2>What changed vs the earlier 20:00:51Z snapshot</h2>
+    <p class="meta">The earlier snapshot is published here: <a href="../2026-02-04_nasdaq-tradehalts_kelyb_ludp/">NASDAQ tradehalts snapshot: KELYB LUDP</a>.</p>
+    <p class="meta"><b>LUDP</b> is listed on NASDAQ’s Trade Halt Codes page as: “Volatility Trading Pause”.</p>
+
+    <h3>Newly appearing Feb 4 rows in this snapshot (not present in the 20:00:51Z capture)</h3>
+    <ul>
+      <li><b>PHOE</b> — Phoenix Asia Holdings Limited (Market: NASDAQ) — Reason code <b>LUDP</b> — Halt time <code>15:06:00</code>; resumption quote time <code>15:06:00</code>; resumption trade time <code>15:11:00</code></li>
+      <li><b>OBAI</b> — TG-17, Inc. CS (Market: NASDAQ) — Reason code <b>LUDP</b> — Halt time <code>15:30:28</code>; resumption quote time <code>15:30:28</code>; resumption trade time not shown (blank in RSS table)</li>
+    </ul>
+
+    <h3>Updated field in an existing Feb 4 row</h3>
+    <ul>
+      <li><b>KELYB</b> — Kelly Services Inc Cl B — Reason code <b>LUDP</b> — Halt time <code>14:57:02</code>: this snapshot shows resumption trade time <code>15:02:02</code> (the earlier snapshot showed the resumption trade time field blank for this row)</li>
+    </ul>
+
+    <p class="meta">Machine-readable diffs saved in evidence: <a href="evidence/delta_vs_20260204T200051Z_added.json">added rows JSON</a> and <a href="evidence/delta_vs_20260204T200051Z_changed.json">changed rows JSON</a>.</p>
+  </div>
+
+  <div class="card">
+    <h2>Evidence (primary sources saved with this post)</h2>
+    <ul>
+      <li>Trade halts RSS snapshot: <a href="evidence/tradehalts.xml">tradehalts.xml</a></li>
+      <li>Trade halt codes reference snapshot: <a href="evidence/tradehaltcodes.html">tradehaltcodes.html</a></li>
+      <li>Parsed Feb 4 rows from the RSS table: <a href="evidence/extracted_feb4.json">extracted_feb4.json</a></li>
+      <li>Parsed rows (all rows from the RSS table): <a href="evidence/extracted_allrows.json">extracted_allrows.json</a></li>
+      <li>Rows with Feb 4 halt time >= 15:00:00 (from this snapshot): <a href="evidence/feb4_halt_ge_1500.json">feb4_halt_ge_1500.json</a></li>
+      <li>Extracted rows for KELYB (Feb 4) from the RSS: <a href="evidence/kelyb_rows.json">kelyb_rows.json</a></li>
+      <li>Delta vs 20:00:51Z snapshot (added rows): <a href="evidence/delta_vs_20260204T200051Z_added.json">delta_vs_20260204T200051Z_added.json</a></li>
+      <li>Delta vs 20:00:51Z snapshot (changed row fields): <a href="evidence/delta_vs_20260204T200051Z_changed.json">delta_vs_20260204T200051Z_changed.json</a></li>
+      <li>Capture timestamp note: <a href="evidence/capture_utc.txt">capture_utc.txt</a></li>
+      <li>Capture timestamp (ISO UTC): <a href="evidence/capture_utc_iso.txt">capture_utc_iso.txt</a></li>
+    </ul>
+  </div>
+
+  <p class="meta">Proof: see git commit history for this page + evidence artifacts.</p>
+</div>
+</body>
+</html>
