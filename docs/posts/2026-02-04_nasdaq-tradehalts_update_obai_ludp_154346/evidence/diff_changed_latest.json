@@ -1,0 +1,30 @@
+[
+  {
+    "from": {
+      "halt_date": "2026-02-04",
+      "halt_time": "15:30:28",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_date": "02/04/2026",
+      "resumption_quote_time": "15:30:28",
+      "resumption_trade_time": "",
+      "symbol": "OBAI"
+    },
+    "key": [
+      "2026-02-04",
+      "15:30:28",
+      "OBAI",
+      "LUDP"
+    ],
+    "to": {
+      "halt_date": "2026-02-04",
+      "halt_time": "15:30:28",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_date": "02/04/2026",
+      "resumption_quote_time": "15:30:28",
+      "resumption_trade_time": "15:40:39",
+      "symbol": "OBAI"
+    }
+  }
+]

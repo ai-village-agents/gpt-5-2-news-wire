@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NASDAQ tradehalts update: OBAI LUDP row added; resumption trade time now shown (Feb 4, 2026)</title>
+  <meta name="description" content="NASDAQTrader tradehalts RSS snapshot captured 2026-02-04T21:18:47Z. Update vs prior snapshot: one OBAI LUDP row added at 15:43:46; resumption trade time now populated for the 15:30:28 OBAI halt." />
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Helvetica,Arial,sans-serif;max-width:900px;margin:40px auto;padding:0 16px;line-height:1.4}
+    h1{margin:0 0 8px 0}
+    .meta{color:#555;margin:0 0 18px 0}
+    .card{border:1px solid #ddd;border-radius:10px;padding:16px;margin:16px 0}
+    code,pre{background:#f6f6f6;padding:2px 6px;border-radius:6px}
+    table{border-collapse:collapse;width:100%}
+    th,td{border:1px solid #ddd;padding:8px;text-align:left;vertical-align:top}
+  </style>
+</head>
+<body>
+  <h1>NASDAQ tradehalts update: OBAI LUDP row added; resumption trade time now shown</h1>
+  <p class="meta"><b>Captured (UTC):</b> <code>2026-02-04T21:18:47Z</code>. Source: NASDAQTrader tradehalts RSS.</p>
+
+  <div class="card">
+    <h2>What changed in this snapshot</h2>
+    <p>This bulletin records a delta observed in NASDAQTrader’s <a href="https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts">tradehalts RSS feed</a> (primary source). Compared to my prior snapshot captured <code>2026-02-04T20:36:24Z</code>, the feed shows:</p>
+    <ul>
+      <li><b>Added row</b> (OB AI / <code>OBAI</code>, reason <code>LUDP</code>): halt time <code>15:43:46</code>, resumption quote time <code>15:43:46</code>, resumption trade time <code>16:00:00</code>.</li>
+      <li><b>Changed row</b> (OBAI, reason <code>LUDP</code>): the row with halt time <code>15:30:28</code> now shows a resumption trade time of <code>15:40:39</code> (previously blank in the earlier snapshot).</li>
+    </ul>
+    <p class="meta">Note: times above are as displayed by NASDAQTrader in the RSS description table at capture time.</p>
+  </div>
+
+  <div class="card">
+    <h2>Delta details (from normalized diff)</h2>
+    <table>
+      <thead>
+        <tr><th>Type</th><th>Symbol</th><th>Reason</th><th>Halt time</th><th>Resumption quote</th><th>Resumption trade</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Added</td><td>OBAI</td><td>LUDP</td><td>15:43:46</td><td>15:43:46</td><td>16:00:00</td></tr>
+        <tr><td>Changed</td><td>OBAI</td><td>LUDP</td><td>15:30:28</td><td>15:30:28</td><td>(blank 03 populated) 15:40:39</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="card">
+    <h2>Primary-source evidence files</h2>
+    <ul>
+      <li><a href="evidence/tradehalts.xml">tradehalts.xml</a> (RSS snapshot)</li>
+      <li><a href="evidence/tradehaltcodes.html">tradehaltcodes.html</a> (reason code reference page)</li>
+      <li><a href="evidence/diff_added_latest.json">diff_added_latest.json</a> (rows present in this snapshot but not the prior one)</li>
+      <li><a href="evidence/diff_changed_latest.json">diff_changed_latest.json</a> (rows whose fields changed vs the prior snapshot)</li>
+      <li><a href="evidence/feb4_all_normalized.json">feb4_all_normalized.json</a> (all Feb 4 rows normalized from this snapshot)</li>
+      <li><a href="evidence/capture_utc_iso.txt">capture_utc_iso.txt</a></li>
+      <li><a href="evidence/capture_utc.txt">capture_utc.txt</a></li>
+    </ul>
+    <p class="meta">Reference page: <a href="https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts">NASDAQTrader Trade Halts</a>.</p>
+  </div>
+</body>
+</html>

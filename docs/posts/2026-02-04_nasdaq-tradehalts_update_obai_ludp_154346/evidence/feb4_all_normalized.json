@@ -1,0 +1,662 @@
+[
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "06:55:00",
+    "market": "NASDAQ",
+    "reason_code": "T3",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "07:25:00",
+    "resumption_trade_time": "07:30:00",
+    "symbol": "SLAB"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "07:55:00",
+    "market": "NASDAQ",
+    "reason_code": "T3",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "08:25:00",
+    "resumption_trade_time": "08:30:00",
+    "symbol": "DTSQ"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "07:55:00",
+    "market": "NASDAQ",
+    "reason_code": "T3",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "08:30:00",
+    "resumption_trade_time": "08:35:00",
+    "symbol": "DTSQR"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "07:55:00",
+    "market": "NASDAQ",
+    "reason_code": "T3",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "08:30:00",
+    "resumption_trade_time": "08:35:00",
+    "symbol": "DTSQU"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:30:24",
+    "market": "Non NASDAQ",
+    "reason_code": "M",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:35:24",
+    "resumption_trade_time": "09:35:24",
+    "symbol": "AMDW"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:35:53",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:35:53",
+    "resumption_trade_time": "09:45:53",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:35:54",
+    "market": "AMEX",
+    "reason_code": "M",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:45:54",
+    "resumption_trade_time": "09:45:54",
+    "symbol": "TOPP"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:36:30",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:36:30",
+    "resumption_trade_time": "09:46:30",
+    "symbol": "ELPW"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:39:45",
+    "market": "NYSE",
+    "reason_code": "M",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:44:49",
+    "resumption_trade_time": "09:44:49",
+    "symbol": "NGL"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:46:26",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:46:26",
+    "resumption_trade_time": "09:51:26",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:47:29",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:47:29",
+    "resumption_trade_time": "09:57:29",
+    "symbol": "JLHL"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:51:43",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:51:43",
+    "resumption_trade_time": "10:02:43",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:54:01",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:54:01",
+    "resumption_trade_time": "10:04:01",
+    "symbol": "PLYX"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:54:31",
+    "market": "AMEX",
+    "reason_code": "M",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:59:31",
+    "resumption_trade_time": "09:59:31",
+    "symbol": "TOPP"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "09:55:36",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "09:55:36",
+    "resumption_trade_time": "10:00:36",
+    "symbol": "MIGI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:02:14",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:02:14",
+    "resumption_trade_time": "10:12:14",
+    "symbol": "MIGI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:06:27",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:06:27",
+    "resumption_trade_time": "10:11:27",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:11:46",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:11:46",
+    "resumption_trade_time": "10:21:46",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:25:26",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:25:26",
+    "resumption_trade_time": "10:35:27",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:35:59",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:35:59",
+    "resumption_trade_time": "10:40:59",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:39:13",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:39:13",
+    "resumption_trade_time": "10:44:13",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:45:54",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:45:54",
+    "resumption_trade_time": "10:50:54",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:46:12",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:46:12",
+    "resumption_trade_time": "10:51:12",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:49:17",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:49:17",
+    "resumption_trade_time": "10:59:17",
+    "symbol": "ZCMD"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:52:38",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:52:38",
+    "resumption_trade_time": "10:57:38",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:52:55",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:52:55",
+    "resumption_trade_time": "10:57:55",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "10:58:15",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "10:58:15",
+    "resumption_trade_time": "11:03:15",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:04:23",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:04:23",
+    "resumption_trade_time": "11:09:23",
+    "symbol": "ZCMD"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:04:28",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:04:28",
+    "resumption_trade_time": "11:09:28",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:10:02",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:10:02",
+    "resumption_trade_time": "11:15:02",
+    "symbol": "ZCMD"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:10:32",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:10:32",
+    "resumption_trade_time": "11:15:32",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:11:41",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:11:41",
+    "resumption_trade_time": "11:16:41",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:13:32",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:13:32",
+    "resumption_trade_time": "11:53:33",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:18:33",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:18:33",
+    "resumption_trade_time": "11:28:33",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:19:23",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:19:23",
+    "resumption_trade_time": "11:24:23",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:33:02",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:33:02",
+    "resumption_trade_time": "11:43:02",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:36:52",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:36:52",
+    "resumption_trade_time": "11:41:52",
+    "symbol": "ZCMD"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:44:09",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:44:09",
+    "resumption_trade_time": "11:59:10",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "11:53:54",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "11:53:54",
+    "resumption_trade_time": "11:58:54",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:02:18",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:02:18",
+    "resumption_trade_time": "12:12:18",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:08:59",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:08:59",
+    "resumption_trade_time": "12:18:59",
+    "symbol": "RVSN"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:19:43",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:19:43",
+    "resumption_trade_time": "12:24:43",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:25:06",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:25:06",
+    "resumption_trade_time": "12:30:06",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:26:07",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:26:07",
+    "resumption_trade_time": "12:36:07",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:31:48",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:31:48",
+    "resumption_trade_time": "12:36:48",
+    "symbol": "ZCMD"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:35:13",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:35:13",
+    "resumption_trade_time": "12:40:13",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:37:59",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:37:59",
+    "resumption_trade_time": "12:42:59",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:42:15",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:42:15",
+    "resumption_trade_time": "12:56:20",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "12:58:50",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "12:58:50",
+    "resumption_trade_time": "13:03:50",
+    "symbol": "AHMA"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:02:24",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:02:24",
+    "resumption_trade_time": "13:12:24",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:08:12",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:08:12",
+    "resumption_trade_time": "13:13:12",
+    "symbol": "LIMN"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:18:17",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:18:17",
+    "resumption_trade_time": "13:29:52",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:31:23",
+    "market": "NYSE",
+    "reason_code": "M",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:36:32",
+    "resumption_trade_time": "13:36:32",
+    "symbol": "MANE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:34:21",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:34:21",
+    "resumption_trade_time": "13:44:21",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:44:54",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:44:54",
+    "resumption_trade_time": "13:57:17",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "13:57:40",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "13:57:40",
+    "resumption_trade_time": "14:02:40",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:04:37",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:04:37",
+    "resumption_trade_time": "14:14:38",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:18:17",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:18:17",
+    "resumption_trade_time": "14:23:17",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:24:48",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:24:48",
+    "resumption_trade_time": "14:29:48",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:34:11",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:34:11",
+    "resumption_trade_time": "14:39:11",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:46:01",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:46:01",
+    "resumption_trade_time": "14:56:02",
+    "symbol": "KELYB"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:49:19",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:49:19",
+    "resumption_trade_time": "14:54:19",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "14:57:02",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "14:57:02",
+    "resumption_trade_time": "15:02:02",
+    "symbol": "KELYB"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "15:06:00",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "15:06:00",
+    "resumption_trade_time": "15:11:00",
+    "symbol": "PHOE"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "15:30:28",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "15:30:28",
+    "resumption_trade_time": "15:40:39",
+    "symbol": "OBAI"
+  },
+  {
+    "halt_date": "2026-02-04",
+    "halt_time": "15:43:46",
+    "market": "NASDAQ",
+    "reason_code": "LUDP",
+    "resumption_date": "02/04/2026",
+    "resumption_quote_time": "15:43:46",
+    "resumption_trade_time": "16:00:00",
+    "symbol": "OBAI"
+  }
+]
