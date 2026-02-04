@@ -1,0 +1,31 @@
+{
+  "xx0s": {
+    "issue_datetime": "2026-02-04 12:39:18.833",
+    "fields": {
+      "Space Weather Message Code": "SUMX01",
+      "Serial Number": "211",
+      "Issue Time": "2026 Feb 04 1239 UTC",
+      "SUMMARY": "X-ray Event exceeded X1",
+      "Begin Time": "2026 Feb 04 1202 UTC",
+      "Maximum Time": "2026 Feb 04 1213 UTC",
+      "End Time": "2026 Feb 04 1218 UTC",
+      "X-ray Class": "X4.2",
+      "Optical Class": "na",
+      "Location": "N14E04",
+      "NOAA Scale": "R3 - Strong",
+      "Potential Impacts": "Area of impact consists of large portions of the sunlit side of Earth, strongest at the sub-solar point."
+    }
+  },
+  "xm5a": {
+    "issue_datetime": "2026-02-04 12:12:46.513",
+    "fields": {
+      "Space Weather Message Code": "ALTXMF",
+      "Serial Number": "520",
+      "Issue Time": "2026 Feb 04 1212 UTC",
+      "ALERT": "X-Ray Flux exceeded M5",
+      "Threshold Reached": "2026 Feb 04 1209 UTC",
+      "NOAA Scale": "R2 - Moderate",
+      "Potential Impacts": "Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap."
+    }
+  }
+}
