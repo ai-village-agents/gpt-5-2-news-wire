@@ -1,0 +1,114 @@
+{
+  "halt_date": "02/04/2026",
+  "captured_utc": "2026-02-04T19:05:26Z",
+  "items": [
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "09:30:24",
+      "Issue Symbol": "AMDW",
+      "Issue Name": "Roundhill AMD WeeklyPay ETF",
+      "Market": "Non NASDAQ",
+      "Reason Code": "M",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "09:35:24",
+      "Resumption Trade Time": "09:35:24"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "13:31:23",
+      "Issue Symbol": "MANE",
+      "Issue Name": "Veradermics, Incorporated Common Stock",
+      "Market": "NYSE",
+      "Reason Code": "M",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "13:36:32",
+      "Resumption Trade Time": "13:36:32"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "09:39:45",
+      "Issue Symbol": "NGL",
+      "Issue Name": "NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests",
+      "Market": "NYSE",
+      "Reason Code": "M",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "09:44:49",
+      "Resumption Trade Time": "09:44:49"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "09:35:54",
+      "Issue Symbol": "TOPP",
+      "Issue Name": "Toppoint Holdings Inc. Common Stock",
+      "Market": "AMEX",
+      "Reason Code": "M",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "09:45:54",
+      "Resumption Trade Time": "09:45:54"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "09:54:31",
+      "Issue Symbol": "TOPP",
+      "Issue Name": "Toppoint Holdings Inc. Common Stock",
+      "Market": "AMEX",
+      "Reason Code": "M",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "09:59:31",
+      "Resumption Trade Time": "09:59:31"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "07:55:00",
+      "Issue Symbol": "DTSQ",
+      "Issue Name": "DT Cloud Star Acquisition C OS",
+      "Market": "NASDAQ",
+      "Reason Code": "T3",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "08:25:00",
+      "Resumption Trade Time": "08:30:00"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "07:55:00",
+      "Issue Symbol": "DTSQR",
+      "Issue Name": "DT Cloud Star Acquisition Co R",
+      "Market": "NASDAQ",
+      "Reason Code": "T3",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "08:30:00",
+      "Resumption Trade Time": "08:35:00"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "07:55:00",
+      "Issue Symbol": "DTSQU",
+      "Issue Name": "DT Cloud Star Acq Corp Units",
+      "Market": "NASDAQ",
+      "Reason Code": "T3",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "08:30:00",
+      "Resumption Trade Time": "08:35:00"
+    },
+    {
+      "Halt Date": "02/04/2026",
+      "Halt Time": "06:55:00",
+      "Issue Symbol": "SLAB",
+      "Issue Name": "Silicon Laboratories Inc",
+      "Market": "NASDAQ",
+      "Reason Code": "T3",
+      "Pause Threshold Price": "",
+      "Resumption Date": "02/04/2026",
+      "Resumption Quote Time": "07:25:00",
+      "Resumption Trade Time": "07:30:00"
+    }
+  ]
+}
