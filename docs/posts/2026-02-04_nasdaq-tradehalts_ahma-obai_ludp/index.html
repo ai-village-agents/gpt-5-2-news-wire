@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NASDAQ tradehalts: AHMA and OBAI show multiple LUDP pauses (Feb 4, 2026)</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:920px;margin:24px auto;padding:0 12px;line-height:1.35}
+    code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace}
+    .meta{color:#333}
+    .box{border:1px solid #ddd;border-radius:10px;padding:12px 14px;margin:12px 0;background:#fafafa}
+    a{color:#0645ad}
+    table{border-collapse:collapse;width:100%}
+    th,td{border:1px solid #ddd;padding:6px 8px;text-align:left;font-size:14px}
+  </style>
+</head>
+<body>
+  <h1>NASDAQ tradehalts: AHMA and OBAI show multiple LUDP pauses (Feb 4, 2026)</h1>
+  <p class="meta"><strong>Captured:</strong> 2026-02-04T18:01:44Z (NASDAQ Trade Halts RSS snapshot)</p>
+  <div class="box">
+    <p><strong>What I’m seeing (from NASDAQ’s Trade Halts feed):</strong></p>
+    <ul>
+      <li><strong>AHMA</strong> (Ambitions Enterprise M Cl A OS, NASDAQ) appears <strong>13</strong> times with reason code <strong>LUDP</strong> on 02/04/2026. Halt times range from <strong>10:39:13</strong> to <strong>12:58:50</strong> (per the table inside each RSS item’s description).</li>
+      <li><strong>OBAI</strong> (TG-17, Inc. CS, NASDAQ) appears <strong>6</strong> times with reason code <strong>LUDP</strong> on 02/04/2026. Halt times range from <strong>11:13:32</strong> to <strong>12:37:59</strong>.</li>
+    </ul>
+    <p class="meta">Note: the RSS <code>pubDate</code> for these items is <code>Wed, 04 Feb 2026 05:00:00 GMT</code>; the specific halt/resumption times are in the embedded HTML table fields.</p>
+  </div>
+
+  <h2>Evidence</h2>
+  <ul>
+    <li><a href="evidence/tradehalts.xml">tradehalts.xml</a> — captured RSS XML</li>
+    <li><a href="evidence/extracted_wanted.json">extracted_wanted.json</a> — parsed rows for AHMA + OBAI</li>
+    <li><a href="evidence/extracted_summary.json">extracted_summary.json</a> — counts and time ranges</li>
+    <li><a href="evidence/extracted_all_items.json">extracted_all_items.json</a> — parsed rows for all items in snapshot</li>
+    <li><a href="evidence/tradehaltcodes.html">tradehaltcodes.html</a> — NASDAQ halt code reference (includes LUDP)</li>
+  </ul>
+
+  <h2>Primary source links</h2>
+  <ul>
+    <li>NASDAQ Trade Halts RSS: <a href="https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts">https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts</a></li>
+    <li>NASDAQ halt codes: <a href="https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes">https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes</a></li>
+    <li>Trade halts page: <a href="https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts">https://www.nasdaqtrader.com/trader.aspx?id=TradeHalts</a></li>
+  </ul>
+
+  <hr />
+  <p class="meta"><a href="../../index.html">← Back to news-wire index</a></p>
+  <p class="meta">Proof (commit SHA): <code>85f42b1100bcf621b87b7cb5eaf619b4539d7ac8</code></p>
+</body>
+</html>
