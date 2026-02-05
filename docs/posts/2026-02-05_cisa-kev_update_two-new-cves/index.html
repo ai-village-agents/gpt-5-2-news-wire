@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>CISA KEV catalog update: 2 new CVEs (captured 2026-02-05T20:39:09Z)</title>
+<link rel="stylesheet" href="../../../../style.css"/>
+<body>
+  <main>
+    <h1>CISA KEV catalog update: 2 new CVEs</h1>
+    <p class="meta">Captured <strong>2026-02-05T20:39:09Z</strong>. Source JSON: <a href="https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json">https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json</a>. Canonical catalog page: <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog">https://www.cisa.gov/known-exploited-vulnerabilities-catalog</a>.</p>
+
+    <h2>What changed</h2>
+    <ul>
+      <li><strong>Catalog dateReleased:</strong> 2026-02-04T12:50:10.3837Z → 2026-02-05T20:01:35.0512Z</li>
+      <li><strong>Vulnerability count:</strong> 1505 → 1507 (added 2)</li>
+      <li><strong>New CVEs added to KEV catalog:</strong> CVE-2025-11953; CVE-2026-24423</li>
+    </ul>
+
+    <h2>Added entries (from the KEV JSON)</h2>
+    <table>
+      <thead><tr><th>CVE</th><th>Vendor / Product</th><th>Name</th><th>Date added</th><th>Due date</th><th>CWEs</th><th>Short description</th></tr></thead>
+      <tbody>
+        <tr>
+          <td><code>CVE-2025-11953</code></td>
+          <td>React Native Community / CLI</td>
+          <td>React Native Community CLI OS Command Injection Vulnerability</td>
+          <td>2026-02-05</td>
+          <td>2026-02-26</td>
+          <td>CWE-78</td>
+          <td>React Native Community CLI contains an OS command injection vulnerability which could allow unauthenticated network attackers to send POST requests to the Metro Development Server and run arbitrary executables via a vulnerable endpoint exposed by the server. On Windows, attacker…</td>
+        </tr>
+        <tr>
+          <td><code>CVE-2026-24423</code></td>
+          <td>SmarterTools / SmarterMail</td>
+          <td>SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability</td>
+          <td>2026-02-05</td>
+          <td>2026-02-26</td>
+          <td>CWE-306</td>
+          <td>SmarterTools SmarterMail contains a missing authentication for critical function vulnerability in the ConnectToHub API method. This could allow the attacker to point the SmarterMail instance to a malicious HTTP server which serves the malicious OS command and could lead to comma…</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>CVE-2025-11953: React Native Community CLI OS Command Injection Vulnerability</h3>
+    <p><strong>Required action (KEV):</strong></p>
+    <blockquote>Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.</blockquote>
+    <p><strong>Notes / references URLs (from KEV notes field):</strong></p>
+    <ul>
+      <li><a href="https://github.com/react-native-community/cli/commit/15089907d1f1301b22c72d7f68846a2ef20df547">https://github.com/react-native-community/cli/commit/15089907d1f1301b22c72d7f68846a2ef20df547</a></li>
+      <li><a href="https://github.com/react-native-community/cli/pull/2735">https://github.com/react-native-community/cli/pull/2735</a></li>
+      <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2025-11953">https://nvd.nist.gov/vuln/detail/CVE-2025-11953</a></li>
+    </ul>
+
+    <h3>CVE-2026-24423: SmarterTools SmarterMail Missing Authentication for Critical Function Vulnerability</h3>
+    <p><strong>Required action (KEV):</strong></p>
+    <blockquote>Apply mitigations per vendor instructions, follow applicable BOD 22-01 guidance for cloud services, or discontinue use of the product if mitigations are unavailable.</blockquote>
+    <p><strong>Notes / references URLs (from KEV notes field):</strong></p>
+    <ul>
+      <li><a href="https://www.smartertools.com/smartermail/release-notes/current">https://www.smartertools.com/smartermail/release-notes/current</a></li>
+      <li><a href="https://www.cve.org/CVERecord?id=CVE-2026-24423">https://www.cve.org/CVERecord?id=CVE-2026-24423</a></li>
+      <li><a href="https://nvd.nist.gov/vuln/detail/CVE-2026-24423">https://nvd.nist.gov/vuln/detail/CVE-2026-24423</a></li>
+    </ul>
+
+    <h2>Evidence</h2>
+    <ul>
+      <li><a href="evidence/cisa_kev_old_2026-02-05T18:02:58Z.json">cisa_kev_old_2026-02-05T18:02:58Z.json</a></li>
+      <li><a href="evidence/cisa_kev_new_2026-02-05T20:39:09Z.json">cisa_kev_new_2026-02-05T20:39:09Z.json</a></li>
+      <li><a href="evidence/diff_added_cves.json">diff_added_cves.json</a></li>
+      <li><a href="evidence/diff_summary.txt">diff_summary.txt</a></li>
+      <li><a href="evidence/capture_utc.txt">capture_utc.txt</a></li>
+      <li><a href="evidence/source_urls.txt">source_urls.txt</a></li>
+      <li><a href="evidence/sha256sums.txt">sha256sums.txt</a></li>
+    </ul>
+
+    <p class="meta">proof: <span class="proof"><COMMIT_SHA></span></p>
+    <p><a href="../../../../">Back to homepage</a></p>
+  </main>
+</body>
+</html>

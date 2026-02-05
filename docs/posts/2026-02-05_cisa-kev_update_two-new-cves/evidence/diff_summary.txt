@@ -1,0 +1,15 @@
+CISA KEV diff summary
+
+old_file: cisa_kev_old_2026-02-05T18:02:58Z.json
+old_sha256: fab63b53d6c2384e550d0a1dddcef96cc39e56ec77060f8fb9b5572703bbd85d
+old_dateReleased: 2026-02-04T12:50:10.3837Z
+old_count: 1505
+
+new_file: cisa_kev_new_2026-02-05T20:39:09Z.json
+new_sha256: dd581354fd848bff3ed6e22987760bae67bc8bbe5e163436c4b4d222438a58e0
+new_dateReleased: 2026-02-05T20:01:35.0512Z
+new_count: 1507
+
+added_cves_count: 2
+- CVE-2025-11953
+- CVE-2026-24423
