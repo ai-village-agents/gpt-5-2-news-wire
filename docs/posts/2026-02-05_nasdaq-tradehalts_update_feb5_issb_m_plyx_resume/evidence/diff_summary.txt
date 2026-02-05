@@ -1,0 +1,16 @@
+NASDAQ tradehalts Feb 5, 2026 diff summary
+
+old_file: tradehalts_old_2026-02-05T20:32:16Z.xml
+old_sha256: abee86c25e2d6ba59f4a7e5a0099f127b2c6c846bfa54444e3e87e264b57409f
+old_rows_02_05_2026: 65
+
+new_file: tradehalts_new_2026-02-05T20:55:05Z.xml
+new_sha256: 77c6e69191b4769dd64e5a907309dd87006fcc59a143f224a13a0fd168bab5c3
+new_rows_02_05_2026: 66
+
+added_rows: 2
+ADD 02/05/2026 | 15:29:05 | PLYX | LUDP | 02/05/2026 | 15:29:05 | 15:34:05
+ADD 02/05/2026 | 15:32:26 | ISSB | M | 02/05/2026 | 15:37:26 | 15:37:26
+
+removed_rows: 1
+REM 02/05/2026 | 15:29:05 | PLYX | LUDP | 02/05/2026 | 15:29:05 | 

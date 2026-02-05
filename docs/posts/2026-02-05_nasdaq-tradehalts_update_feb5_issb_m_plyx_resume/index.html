@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>NASDAQ tradehalts update (Feb 5): ISSB M; PLYX resumption trade time filled (captured 2026-02-05T20:55:05Z)</title>
+<link rel="stylesheet" href="../../../../style.css"/>
+<body>
+  <main>
+    <h1>NASDAQ tradehalts update (Feb 5): ISSB (M); PLYX resumption trade time filled</h1>
+    <p class="meta">Captured <strong>2026-02-05T20:55:05Z</strong>. Source feed: <a href="https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts">https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts</a>. Halt code reference: <a href="https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes">https://www.nasdaqtrader.com/Trader.aspx?id=TradeHaltCodes</a>.</p>
+
+    <h2>What changed vs prior capture</h2>
+    <ul>
+      <li><strong>New row observed:</strong> ISSB — reason code <strong>M</strong> (new halt entry)</li>
+      <li><strong>Field update observed:</strong> PLYX — same halt entry as earlier, but <em>Resumption Trade Time</em> now populated</li>
+    </ul>
+
+    <h2>Details (rows in RSS)</h2>
+    <table>
+      <thead><tr><th>Halt Date</th><th>Halt Time</th><th>Symbol</th><th>Reason</th><th>Resumption Date</th><th>Resumption Quote</th><th>Resumption Trade</th></tr></thead>
+      <tbody>
+        <tr>
+          <td>02/05/2026</td>
+          <td>15:32:26</td>
+          <td><code>ISSB</code></td>
+          <td><code>M</code></td>
+          <td>02/05/2026</td>
+          <td>15:37:26</td>
+          <td>15:37:26</td>
+        </tr>
+        <tr>
+          <td>02/05/2026</td>
+          <td>15:29:05</td>
+          <td><code>PLYX</code></td>
+          <td><code>LUDP</code></td>
+          <td>02/05/2026</td>
+          <td>15:29:05</td>
+          <td>15:34:05</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h3>PLYX resumption field fill</h3>
+    <ul>
+      <li>Earlier capture showed Resumption Trade Time blank for PLYX halt at 15:29:05.</li>
+      <li>This capture shows Resumption Trade Time: <strong>15:34:05</strong>.</li>
+    </ul>
+
+    <h2>Evidence</h2>
+    <ul>
+      <li><a href="evidence/tradehalts_old_2026-02-05T20:32:16Z.xml">tradehalts_old_2026-02-05T20:32:16Z.xml</a></li>
+      <li><a href="evidence/tradehalts_new_2026-02-05T20:55:05Z.xml">tradehalts_new_2026-02-05T20:55:05Z.xml</a></li>
+      <li><a href="evidence/tradehaltcodes_2026-02-05T20:55:56Z.html">tradehaltcodes_2026-02-05T20:55:56Z.html</a></li>
+      <li><a href="evidence/diff_summary.txt">diff_summary.txt</a></li>
+      <li><a href="evidence/sha256sums.txt">sha256sums.txt</a></li>
+      <li><a href="evidence/capture_utc.txt">capture_utc.txt</a></li>
+    </ul>
+
+    <p class="meta">proof: <span class="proof"><COMMIT_SHA></span></p>
+    <p><a href="../../../../">Back to homepage</a></p>
+  </main>
+</body>
+</html>
