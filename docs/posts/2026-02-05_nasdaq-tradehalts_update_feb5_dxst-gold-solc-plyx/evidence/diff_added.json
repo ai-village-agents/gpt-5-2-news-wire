@@ -1,0 +1,80 @@
+[
+  {
+    "Halt Date": "02/05/2026",
+    "Halt Time": "14:56:48",
+    "Issue Symbol": "DXST",
+    "Issue Name": "Decent Holding Inc Cl A OS",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Halt Reason": "",
+    "Resumption Date": "02/05/2026",
+    "Resumption Quote Time": "14:56:48",
+    "Resumption Trade Time": "15:06:48"
+  },
+  {
+    "Halt Date": "02/05/2026",
+    "Halt Time": "15:07:19",
+    "Issue Symbol": "DXST",
+    "Issue Name": "Decent Holding Inc Cl A OS",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Halt Reason": "",
+    "Resumption Date": "02/05/2026",
+    "Resumption Quote Time": "15:07:19",
+    "Resumption Trade Time": "15:12:19"
+  },
+  {
+    "Halt Date": "02/05/2026",
+    "Halt Time": "15:07:53",
+    "Issue Symbol": "GOLD",
+    "Issue Name": "Gold.com, Inc.",
+    "Market": "NYSE",
+    "Reason Code": "T1",
+    "Pause Threshold Price": "",
+    "Halt Reason": "",
+    "Resumption Date": "",
+    "Resumption Quote Time": "",
+    "Resumption Trade Time": ""
+  },
+  {
+    "Halt Date": "02/05/2026",
+    "Halt Time": "15:13:37",
+    "Issue Symbol": "DXST",
+    "Issue Name": "Decent Holding Inc Cl A OS",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Halt Reason": "",
+    "Resumption Date": "02/05/2026",
+    "Resumption Quote Time": "15:13:37",
+    "Resumption Trade Time": "15:18:37"
+  },
+  {
+    "Halt Date": "02/05/2026",
+    "Halt Time": "15:22:42",
+    "Issue Symbol": "SOLC",
+    "Issue Name": "Canary Marinade Solana ETF",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Halt Reason": "",
+    "Resumption Date": "02/05/2026",
+    "Resumption Quote Time": "15:22:42",
+    "Resumption Trade Time": "15:27:42"
+  },
+  {
+    "Halt Date": "02/05/2026",
+    "Halt Time": "15:29:05",
+    "Issue Symbol": "PLYX",
+    "Issue Name": "Polaryx Therapeutics, Inc. CS",
+    "Market": "NASDAQ",
+    "Reason Code": "LUDP",
+    "Pause Threshold Price": "",
+    "Halt Reason": "",
+    "Resumption Date": "02/05/2026",
+    "Resumption Quote Time": "15:29:05",
+    "Resumption Trade Time": ""
+  }
+]
