@@ -1,0 +1,20 @@
+[
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:31:12",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:41:13",
+    "ResumptionQuoteTime": "14:31:12"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:41:47",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:51:47",
+    "ResumptionQuoteTime": "14:41:47"
+  }
+]

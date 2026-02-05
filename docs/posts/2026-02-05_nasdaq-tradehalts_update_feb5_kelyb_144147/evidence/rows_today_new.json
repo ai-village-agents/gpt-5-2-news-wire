@@ -1,0 +1,533 @@
+[
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:30:15",
+    "IssueSymbol": "XRPK",
+    "ReasonCode": "M",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:35:15",
+    "ResumptionQuoteTime": "09:35:15"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:30:31",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:35:31",
+    "ResumptionQuoteTime": "09:30:31"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:32:33",
+    "IssueSymbol": "PHOE",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:47:33",
+    "ResumptionQuoteTime": "09:32:33"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:33:08",
+    "IssueSymbol": "BWEN",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:38:08",
+    "ResumptionQuoteTime": "09:33:08"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:36:00",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:41:00",
+    "ResumptionQuoteTime": "09:36:00"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:38:25",
+    "IssueSymbol": "COHR",
+    "ReasonCode": "M",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:43:36",
+    "ResumptionQuoteTime": "09:43:36"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:38:50",
+    "IssueSymbol": "NEWTO",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:43:50",
+    "ResumptionQuoteTime": "09:38:50"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:41:22",
+    "IssueSymbol": "FEED",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:46:22",
+    "ResumptionQuoteTime": "09:41:22"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:42:49",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:52:49",
+    "ResumptionQuoteTime": "09:42:49"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:46:54",
+    "IssueSymbol": "NPT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:51:54",
+    "ResumptionQuoteTime": "09:46:54"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:50:19",
+    "IssueSymbol": "PHOE",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "09:55:19",
+    "ResumptionQuoteTime": "09:50:19"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:53:06",
+    "IssueSymbol": "NPT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:03:06",
+    "ResumptionQuoteTime": "09:53:06"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:53:14",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:03:15",
+    "ResumptionQuoteTime": "09:53:14"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "09:56:16",
+    "IssueSymbol": "MSTK",
+    "ReasonCode": "M",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:01:16",
+    "ResumptionQuoteTime": "10:01:16"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:00:08",
+    "IssueSymbol": "PHOE",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:05:08",
+    "ResumptionQuoteTime": "10:00:08"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:03:39",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:13:39",
+    "ResumptionQuoteTime": "10:03:39"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:04:24",
+    "IssueSymbol": "NPT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:09:24",
+    "ResumptionQuoteTime": "10:04:24"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:05:33",
+    "IssueSymbol": "MSST",
+    "ReasonCode": "M",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:10:33",
+    "ResumptionQuoteTime": "10:10:33"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:10:32",
+    "IssueSymbol": "NPT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:15:32",
+    "ResumptionQuoteTime": "10:10:32"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:13:54",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:23:54",
+    "ResumptionQuoteTime": "10:13:54"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:18:00",
+    "IssueSymbol": "NPT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:23:00",
+    "ResumptionQuoteTime": "10:18:00"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:21:47",
+    "IssueSymbol": "VSECU",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:26:47",
+    "ResumptionQuoteTime": "10:21:47"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:23:45",
+    "IssueSymbol": "TOXR",
+    "ReasonCode": "M",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:28:45",
+    "ResumptionQuoteTime": "10:28:45"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:24:28",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:39:29",
+    "ResumptionQuoteTime": "10:24:28"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:24:56",
+    "IssueSymbol": "AHMA",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:29:56",
+    "ResumptionQuoteTime": "10:24:56"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:29:45",
+    "IssueSymbol": "NPT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:34:45",
+    "ResumptionQuoteTime": "10:29:45"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:34:51",
+    "IssueSymbol": "NEWTO",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:39:51",
+    "ResumptionQuoteTime": "10:34:51"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:38:03",
+    "IssueSymbol": "VSECU",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:43:03",
+    "ResumptionQuoteTime": "10:38:03"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:40:11",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:45:11",
+    "ResumptionQuoteTime": "10:40:11"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:43:18",
+    "IssueSymbol": "VSECU",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:23:19",
+    "ResumptionQuoteTime": "10:43:18"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:46:30",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "10:51:30",
+    "ResumptionQuoteTime": "10:46:30"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "10:52:56",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:02:56",
+    "ResumptionQuoteTime": "10:52:56"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:05:30",
+    "IssueSymbol": "TKLF",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:10:30",
+    "ResumptionQuoteTime": "11:05:30"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:13:35",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:18:35",
+    "ResumptionQuoteTime": "11:13:35"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:13:49",
+    "IssueSymbol": "GURE",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:18:49",
+    "ResumptionQuoteTime": "11:13:49"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:20:27",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:35:27",
+    "ResumptionQuoteTime": "11:20:27"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:31:07",
+    "IssueSymbol": "MGRT",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:41:07",
+    "ResumptionQuoteTime": "11:31:07"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:42:46",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:47:46",
+    "ResumptionQuoteTime": "11:42:46"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:48:31",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "11:58:31",
+    "ResumptionQuoteTime": "11:48:31"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "11:59:13",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:04:13",
+    "ResumptionQuoteTime": "11:59:13"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:04:51",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:15:41",
+    "ResumptionQuoteTime": "12:04:51"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:20:00",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:25:00",
+    "ResumptionQuoteTime": "12:20:00"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:26:19",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:31:19",
+    "ResumptionQuoteTime": "12:26:19"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:32:28",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:37:28",
+    "ResumptionQuoteTime": "12:32:28"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:38:56",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:43:56",
+    "ResumptionQuoteTime": "12:38:56"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:47:32",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "12:52:32",
+    "ResumptionQuoteTime": "12:47:32"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "12:56:42",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:01:42",
+    "ResumptionQuoteTime": "12:56:42"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:06:39",
+    "IssueSymbol": "OBAI",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:11:39",
+    "ResumptionQuoteTime": "13:06:39"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:24:08",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:29:08",
+    "ResumptionQuoteTime": "13:24:08"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:31:09",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:36:09",
+    "ResumptionQuoteTime": "13:31:09"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:37:15",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:42:15",
+    "ResumptionQuoteTime": "13:37:15"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:42:54",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:57:55",
+    "ResumptionQuoteTime": "13:42:54"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:46:31",
+    "IssueSymbol": "PHOE",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "13:51:31",
+    "ResumptionQuoteTime": "13:46:31"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "13:59:59",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:09:59",
+    "ResumptionQuoteTime": "13:59:59"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:13:47",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:18:47",
+    "ResumptionQuoteTime": "14:13:47"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:19:47",
+    "IssueSymbol": "OBAI",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:24:47",
+    "ResumptionQuoteTime": "14:19:47"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:22:46",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:27:46",
+    "ResumptionQuoteTime": "14:22:46"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:31:12",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:41:13",
+    "ResumptionQuoteTime": "14:31:12"
+  },
+  {
+    "HaltDate": "02/05/2026",
+    "HaltTime": "14:41:47",
+    "IssueSymbol": "KELYB",
+    "ReasonCode": "LUDP",
+    "ResumptionDate": "02/05/2026",
+    "ResumptionTradeTime": "14:51:47",
+    "ResumptionQuoteTime": "14:41:47"
+  }
+]

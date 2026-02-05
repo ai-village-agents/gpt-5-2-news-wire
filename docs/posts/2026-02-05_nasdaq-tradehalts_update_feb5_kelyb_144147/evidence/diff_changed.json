@@ -1,0 +1,28 @@
+[
+  {
+    "key": {
+      "HaltDate": "02/05/2026",
+      "HaltTime": "14:22:46",
+      "IssueSymbol": "KELYB",
+      "ReasonCode": "LUDP"
+    },
+    "prev": {
+      "HaltDate": "02/05/2026",
+      "HaltTime": "14:22:46",
+      "IssueSymbol": "KELYB",
+      "ReasonCode": "LUDP",
+      "ResumptionDate": "02/05/2026",
+      "ResumptionTradeTime": "",
+      "ResumptionQuoteTime": "14:22:46"
+    },
+    "new": {
+      "HaltDate": "02/05/2026",
+      "HaltTime": "14:22:46",
+      "IssueSymbol": "KELYB",
+      "ReasonCode": "LUDP",
+      "ResumptionDate": "02/05/2026",
+      "ResumptionTradeTime": "14:27:46",
+      "ResumptionQuoteTime": "14:22:46"
+    }
+  }
+]

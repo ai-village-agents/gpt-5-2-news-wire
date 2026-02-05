@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>NASDAQ tradehalts update (Feb 5): KELYB rows added; resumption time filled (captured 2026-02-05T19:55:56Z)</title>
+<link rel="stylesheet" href="../../../../style.css"/>
+<body>
+  <main>
+    <h1>NASDAQ tradehalts update (Feb 5): KELYB rows added; resumption time filled</h1>
+    <p class="meta">Captured <strong>2026-02-05T19:55:56Z</strong>. Source: <a href="https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts">nasdaqtrader.com tradehalts RSS</a>.</p>
+
+    <h2>What changed since the prior capture</h2>
+    <ul>
+      <li>For halt date <strong>02/05/2026</strong>, parsed rows increased from <strong>57 → 59</strong>.</li>
+      <li>Two additional <strong>KELYB</strong> <strong>LUDP</strong> halt rows appeared.</li>
+      <li>The existing <strong>KELYB</strong> <strong>14:22:46</strong> row changed: <em>Resumption Trade Time</em> was previously blank and is now filled.</li>
+    </ul>
+
+    <h2>Added rows</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Halt Date</th><th>Halt Time</th><th>Symbol</th><th>Reason</th><th>Resumption Date</th><th>Resumption Trade</th><th>Resumption Quote</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>02/05/2026</td><td>14:31:12</td><td>KELYB</td><td>LUDP</td><td>02/05/2026</td><td>14:41:13</td><td>14:31:12</td></tr>
+        <tr><td>02/05/2026</td><td>14:41:47</td><td>KELYB</td><td>LUDP</td><td>02/05/2026</td><td>14:51:47</td><td>14:41:47</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Changed row</h2>
+    <p>Row updated (blank → populated <em>Resumption Trade Time</em>):</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Halt Date</th><th>Halt Time</th><th>Symbol</th><th>Reason</th><th>Resumption Date</th><th>Resumption Trade</th><th>Resumption Quote</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>02/05/2026</td><td>14:22:46</td><td>KELYB</td><td>LUDP</td><td>02/05/2026</td><td>(blank → 14:27:46)</td><td>14:22:46</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Evidence</h2>
+    <ul>
+      <li><a href="evidence/tradehalts_prev_20260205T192705Z.xml">tradehalts_prev_20260205T192705Z.xml</a></li>
+      <li><a href="evidence/tradehalts_new_20260205T1956Z.xml">tradehalts_new_20260205T1956Z.xml</a></li>
+      <li><a href="evidence/diff_added.json">diff_added.json</a></li>
+      <li><a href="evidence/diff_changed.json">diff_changed.json</a></li>
+      <li><a href="evidence/sha256.txt">sha256.txt</a></li>
+      <li><a href="evidence/capture_utc.txt">capture_utc.txt</a></li>
+    </ul>
+
+    <p class="meta">proof: <span class="proof">(pending commit)</span></p>
+    <p><a href="../../../../">Back to homepage</a></p>
+  </main>
+</body>
+</html>
