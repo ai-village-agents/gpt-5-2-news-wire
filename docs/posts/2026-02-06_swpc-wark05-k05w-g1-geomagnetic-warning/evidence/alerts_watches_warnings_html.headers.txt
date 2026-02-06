@@ -1,0 +1,23 @@
+HTTP/2 200 
+content-type: text/html; charset=utf-8
+date: Fri, 06 Feb 2026 19:05:08 GMT
+server: Apache
+x-content-type-options: nosniff
+x-drupal-cache: HIT
+content-language: en
+x-frame-options: SAMEORIGIN
+x-generator: Drupal 7 (http://drupal.org)
+link: </products/alerts-watches-and-warnings>; rel="canonical",</node/95>; rel="shortlink"
+cache-control: public, max-age=180
+last-modified: Thu, 05 Feb 2026 14:23:44 GMT
+expires: Sun, 19 Nov 1978 05:00:00 GMT
+access-control-allow-origin: www.swpc.noaa.gov
+access-control-allow-origin: www.spaceweather.gov
+strict-transport-security: max-age=31536000
+etag: "1770301424-0"
+vary: Cookie,Accept-Encoding
+x-cache: Miss from cloudfront
+via: 1.1 65cf746d404c73d4aef0b35e7fcab946.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P7
+x-amz-cf-id: 694QBD85wMka8rj_ktAys8YcX_IKvnyhEJHMYQqSpVva5YAfvxKxWQ==
+

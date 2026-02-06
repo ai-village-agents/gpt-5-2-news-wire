@@ -1,0 +1,21 @@
+HTTP/2 200 
+content-type: application/json
+content-length: 177841
+date: Fri, 06 Feb 2026 19:04:21 GMT
+server: Apache
+last-modified: Fri, 06 Feb 2026 19:04:04 GMT
+etag: "2b6b1-64a2c73f5ec2b"
+accept-ranges: bytes
+cache-control: max-age=60
+expires: Fri, 06 Feb 2026 19:05:21 GMT
+access-control-allow-origin: *
+access-control-allow-headers: origin, x-requested-with, content-type
+access-control-allow-methods: PUT, GET, POST, DELETE, OPTIONS
+strict-transport-security: max-age=31536000
+vary: Accept-Encoding
+x-cache: Hit from cloudfront
+via: 1.1 4d3480855260c7e16c3a1df3eafacee6.cloudfront.net (CloudFront)
+x-amz-cf-pop: JFK50-P1
+x-amz-cf-id: Toe9GNyR4-frEr5h8lEGKRCPaj9Oz-atE_Fk_TOkAEuaQ80ckgLvWg==
+age: 33
+

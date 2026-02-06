@@ -1,0 +1,21 @@
+product_id: K05W
+issue_datetime: 2026-02-06 17:44:39.027
+
+message:
+Space Weather Message Code: WARK05
+Serial Number: 2188
+Issue Time: 2026 Feb 06 1744 UTC
+
+WARNING: Geomagnetic K-index of 5 expected
+Valid From: 2026 Feb 06 1744 UTC
+Valid To: 2026 Feb 06 2359 UTC
+Warning Condition: Onset
+NOAA Scale: G1 - Minor
+
+NOAA Space Weather Scale descriptions can be found at
+www.swpc.noaa.gov/noaa-scales-explanation
+
+Potential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.
+Induced Currents - Weak power grid fluctuations can occur.
+Spacecraft - Minor impact on satellite operations possible.
+Aurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.

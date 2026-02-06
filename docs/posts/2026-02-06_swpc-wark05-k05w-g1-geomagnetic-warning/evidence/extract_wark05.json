@@ -1,0 +1,122 @@
+[
+  {
+    "issue_datetime": "2026-02-06 17:44:39.027",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2188\r\nIssue Time: 2026 Feb 06 1744 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Feb 06 1744 UTC\r\nValid To: 2026 Feb 06 2359 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-02-05 08:54:38.777",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2187\r\nIssue Time: 2026 Feb 05 0854 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2186\r\nValid From: 2026 Feb 05 0300 UTC\r\nNow Valid Until: 2026 Feb 05 1500 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-02-05 02:59:21.917",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2186\r\nIssue Time: 2026 Feb 05 0259 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Feb 05 0300 UTC\r\nValid To: 2026 Feb 05 0900 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-28 22:17:35.693",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2185\r\nIssue Time: 2026 Jan 28 2217 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2184\r\nValid From: 2026 Jan 28 1534 UTC\r\nNow Valid Until: 2026 Jan 29 0900 UTC\r\nWarning Condition: Onset\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-28 15:35:08.463",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2184\r\nIssue Time: 2026 Jan 28 1535 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 28 1534 UTC\r\nValid To: 2026 Jan 28 2359 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-24 02:57:07.740",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2183\r\nIssue Time: 2026 Jan 24 0257 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2182\r\nValid From: 2026 Jan 22 2325 UTC\r\nNow Valid Until: 2026 Jan 24 1500 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-23 20:56:42.883",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2182\r\nIssue Time: 2026 Jan 23 2056 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2181\r\nValid From: 2026 Jan 22 2325 UTC\r\nNow Valid Until: 2026 Jan 24 0300 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-23 14:56:33.070",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2181\r\nIssue Time: 2026 Jan 23 1456 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2180\r\nValid From: 2026 Jan 22 2325 UTC\r\nNow Valid Until: 2026 Jan 23 2100 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-23 08:54:58.480",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2180\r\nIssue Time: 2026 Jan 23 0854 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2179\r\nValid From: 2026 Jan 22 2325 UTC\r\nNow Valid Until: 2026 Jan 23 1500 UTC\r\nWarning Condition: Onset\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-22 23:25:36.500",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2179\r\nIssue Time: 2026 Jan 22 2325 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 22 2325 UTC\r\nValid To: 2026 Jan 23 0900 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-21 10:56:49.950",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2178\r\nIssue Time: 2026 Jan 21 1056 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2177\r\nValid From: 2026 Jan 19 1902 UTC\r\nNow Valid Until: 2026 Jan 22 1500 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-21 02:01:54.690",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2177\r\nIssue Time: 2026 Jan 21 0201 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2176\r\nValid From: 2026 Jan 19 1902 UTC\r\nNow Valid Until: 2026 Jan 21 1800 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-20 19:53:57.473",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2176\r\nIssue Time: 2026 Jan 20 1953 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2175\r\nValid From: 2026 Jan 19 1902 UTC\r\nNow Valid Until: 2026 Jan 21 0900 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-19 19:27:40.773",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2175\r\nIssue Time: 2026 Jan 19 1927 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2174\r\nValid From: 2026 Jan 19 1902 UTC\r\nNow Valid Until: 2026 Jan 20 2359 UTC\r\nWarning Condition: Persistence\r\n\r\nComment: Correction for end time. \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-19 19:06:13.530",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2174\r\nIssue Time: 2026 Jan 19 1906 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 19 1902 UTC\r\nValid To: 2026 Jan 20 0900 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-17 02:07:46.793",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2173\r\nIssue Time: 2026 Jan 17 0207 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2172\r\nValid From: 2026 Jan 16 1525 UTC\r\nNow Valid Until: 2026 Jan 17 1800 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-16 20:41:00.997",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2172\r\nIssue Time: 2026 Jan 16 2041 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2171\r\nValid From: 2026 Jan 16 1525 UTC\r\nNow Valid Until: 2026 Jan 17 0300 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-16 15:23:52.300",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2171\r\nIssue Time: 2026 Jan 16 1523 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 16 1525 UTC\r\nValid To: 2026 Jan 16 2100 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-12 22:45:17.907",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2171\r\nIssue Time: 2026 Jan 12 2245 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 12 2245 UTC\r\nValid To: 2026 Jan 13 0600 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-11 19:19:23.757",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2170\r\nIssue Time: 2026 Jan 11 1919 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2169\r\nValid From: 2026 Jan 11 1419 UTC\r\nNow Valid Until: 2026 Jan 12 0600 UTC\r\nWarning Condition: Persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-11 14:19:55.303",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2169\r\nIssue Time: 2026 Jan 11 1419 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 11 1419 UTC\r\nValid To: 2026 Jan 11 2100 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-10 20:44:19.910",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2168\r\nIssue Time: 2026 Jan 10 2044 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\r\nExtension to Serial Number: 2167\r\nValid From: 2026 Jan 10 1455 UTC\r\nNow Valid Until: 2026 Jan 11 0900 UTC\r\nWarning Condition: persistence\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-10 14:56:21.023",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2167\r\nIssue Time: 2026 Jan 10 1456 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 10 1455 UTC\r\nValid To: 2026 Jan 10 2359 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  },
+  {
+    "issue_datetime": "2026-01-08 01:43:12.837",
+    "message": "Space Weather Message Code: WARK05\r\nSerial Number: 2166\r\nIssue Time: 2026 Jan 08 0143 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected\r\nValid From: 2026 Jan 08 0140 UTC\r\nValid To: 2026 Jan 08 0600 UTC\r\nWarning Condition: Onset\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+    "product_id": "K05W"
+  }
+]
