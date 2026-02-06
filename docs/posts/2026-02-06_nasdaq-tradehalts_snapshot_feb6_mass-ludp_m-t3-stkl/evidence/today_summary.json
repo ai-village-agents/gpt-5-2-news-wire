@@ -1,0 +1,180 @@
+{
+  "today": "02/06/2026",
+  "rows_count": 50,
+  "unique_symbols": 27,
+  "reason_code_counts": {
+    "LUDP": 39,
+    "M": 10,
+    "T3": 1
+  },
+  "market_counts": {
+    "NASDAQ": 40,
+    "AMEX": 3,
+    "Non NASDAQ": 5,
+    "NYSE Arca": 2
+  },
+  "top_symbols_by_row_count": [
+    [
+      "PHOE",
+      7
+    ],
+    [
+      "BUUU",
+      6
+    ],
+    [
+      "LBTYB",
+      5
+    ],
+    [
+      "SMX",
+      3
+    ],
+    [
+      "KELYB",
+      3
+    ],
+    [
+      "MB",
+      2
+    ],
+    [
+      "LUD",
+      2
+    ],
+    [
+      "ONEG",
+      2
+    ],
+    [
+      "RDIB",
+      2
+    ],
+    [
+      "ZBAI",
+      1
+    ]
+  ],
+  "recent_top10_rows": [
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "14:04:51",
+      "issue_symbol": "LBTYB",
+      "issue_name": "Liberty Global Ltd Cl B Cmn Sh",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "14:09:51",
+      "resumption_quote_time": "14:04:51",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "13:43:21",
+      "issue_symbol": "ZBAI",
+      "issue_name": "ATIF Holdings Ltd Ord Shs",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "13:48:21",
+      "resumption_quote_time": "13:43:21",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "13:36:49",
+      "issue_symbol": "SGP",
+      "issue_name": "SpyGlass Pharma Cmn",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "13:46:49",
+      "resumption_quote_time": "13:36:49",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "13:20:19",
+      "issue_symbol": "MGRT",
+      "issue_name": "Mega Fortune Co Ltd Ord",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "13:30:19",
+      "resumption_quote_time": "13:20:19",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "13:15:32",
+      "issue_symbol": "LASE",
+      "issue_name": "Laser Photonics Corp Cmn",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "13:25:32",
+      "resumption_quote_time": "13:15:32",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "12:13:50",
+      "issue_symbol": "BUUU",
+      "issue_name": "BUUU Group Limited Cl A Ord Sh",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "12:18:50",
+      "resumption_quote_time": "12:13:50",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "12:06:06",
+      "issue_symbol": "BUUU",
+      "issue_name": "BUUU Group Limited Cl A Ord Sh",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "12:11:06",
+      "resumption_quote_time": "12:06:06",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "11:55:42",
+      "issue_symbol": "BUUU",
+      "issue_name": "BUUU Group Limited Cl A Ord Sh",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "12:05:42",
+      "resumption_quote_time": "11:55:42",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "11:51:28",
+      "issue_symbol": "MI",
+      "issue_name": "NFT Limited Class A Ordinary Share",
+      "market": "AMEX",
+      "reason_code": "M",
+      "resumption_trade_time": "12:01:28",
+      "resumption_quote_time": "12:01:28",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    },
+    {
+      "halt_date": "02/06/2026",
+      "halt_time": "11:45:15",
+      "issue_symbol": "BUUU",
+      "issue_name": "BUUU Group Limited Cl A Ord Sh",
+      "market": "NASDAQ",
+      "reason_code": "LUDP",
+      "resumption_trade_time": "11:55:16",
+      "resumption_quote_time": "11:45:15",
+      "resumption_date": "02/06/2026",
+      "pause_threshold_price": ""
+    }
+  ]
+}
