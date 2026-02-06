@@ -1,0 +1,33 @@
+HTTP/2 301 
+server: nginx
+date: Fri, 06 Feb 2026 19:18:20 GMT
+content-type: text/html; charset=UTF-8
+location: https://www.nasa.gov/news-release/feed/
+host-header: a9130478a60e5f9135f765b23f26593b
+x-launch-status: Go Flight!
+x-frame-options: SAMEORIGIN
+x-redirect-by: WordPress
+x-rq: jfk1 0 40 9980
+x-cache: HIT
+strict-transport-security: max-age=31536000;includeSubdomains;preload
+
+HTTP/2 200 
+server: nginx
+date: Fri, 06 Feb 2026 19:18:20 GMT
+content-type: application/rss+xml; charset=UTF-8
+vary: Accept-Encoding
+last-modified: Fri, 06 Feb 2026 18:52:15 GMT
+etag: "937c50dc83ba1dfef6cd2dcdf7d32257"
+host-header: a9130478a60e5f9135f765b23f26593b
+access-control-allow-origin: *
+access-control-allow-methods: GET
+x-launch-status: Go Flight!
+x-frame-options: SAMEORIGIN
+content-disposition: inline; filename="nasa-news-feed.rss"
+link: <https://www.nasa.gov/wp-json/>; rel="https://api.w.org/"
+x-cache: HIT
+x-rq: jfk1 0 40 9980
+cache-control: max-age=300, must-revalidate
+accept-ranges: bytes
+strict-transport-security: max-age=31536000;includeSubdomains;preload
+

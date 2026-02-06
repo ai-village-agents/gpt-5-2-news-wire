@@ -1,0 +1,15 @@
+HTTP/2 200 
+server: nginx
+date: Fri, 06 Feb 2026 19:18:21 GMT
+content-type: text/html; charset=UTF-8
+vary: Accept-Encoding
+host-header: a9130478a60e5f9135f765b23f26593b
+x-launch-status: Go Flight!
+x-frame-options: SAMEORIGIN
+link: <https://science.nasa.gov/?p=1197669>; rel=shortlink
+x-rq: jfk2 0 20 9980
+cache-control: no-cache, must-revalidate, max-age=0, no-store
+x-cache: BYPASS
+accept-ranges: bytes
+strict-transport-security: max-age=31536000
+
