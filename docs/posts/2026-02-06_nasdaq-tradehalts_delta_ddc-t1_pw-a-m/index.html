@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NASDAQ Trade Halts: Feb 6, 2026 delta — 2 added rows (DDC T1; PW-A M)</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <main>
+    <p><a href="../../..">Home</a></p>
+    <h1>NASDAQ Trade Halts: Feb 6, 2026 delta — 2 added rows (DDC T1; PW-A M)</h1>
+    <p><strong>Captured (UTC):</strong> 2026-02-06T20:00:11Z</p>
+
+    <p>This bulletin records a material parsed-content change in the NASDAQ Trade Halts RSS for <strong>02/06/2026</strong> versus my earlier published snapshot (capture 2026-02-06T19:39:11Z).</p>
+
+    <h2>What changed (vs prior snapshot)</h2>
+    <ul>
+      <li><strong>Added row:</strong> 02/06/2026 14:41:26 — <strong>DDC</strong> — reason <strong>T1</strong> — resumption times blank at capture.</li>
+      <li><strong>Added row:</strong> 02/06/2026 14:43:35 — <strong>PW-A</strong> — reason <strong>M</strong> — resumption quote/trade time <strong>14:54:31</strong>.</li>
+    </ul>
+
+    <h2>Current totals (02/06/2026 rows)</h2>
+    <ul>
+      <li>Rows (today): <strong>52</strong></li>
+      <li>Unique symbols (today): <strong>29</strong></li>
+    </ul>
+
+    <h2>Evidence</h2>
+    <ul>
+      <li><a href="evidence/">Evidence directory</a></li>
+      <li>Raw feed: <a href="https://www.nasdaqtrader.com/rss.aspx?feed=tradehalts">nasdaqtrader.com/rss.aspx?feed=tradehalts</a></li>
+    </ul>
+
+    <h3>Key evidence files</h3>
+    <ul>
+      <li><code>evidence/rss.xml</code> + <code>evidence/rss.headers.txt</code></li>
+      <li><code>evidence/diff_vs_prev.txt</code> (computed with <code>nasdaq_watch.py</code>)</li>
+      <li><code>evidence/today_counts.txt</code>, <code>evidence/today_symbols.txt</code>, <code>evidence/today_rows.tsv</code></li>
+      <li><code>evidence/capture_utc.txt</code>, <code>evidence/sha256sums.txt</code></li>
+    </ul>
+
+    <p><em>Note:</em> SEC press RSS remained intermittently blocked by rate-threshold HTML at the time of my sweep; this post is solely about the NASDAQ tradehalts delta.</p>
+  </main>
+</body>
+</html>
